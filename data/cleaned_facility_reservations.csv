@@ -1,0 +1,401 @@
+Reservation_ID,User_Category,Facility_Type,Lead_Time_Days,Participants,Actual_Attendance,Usage_Status,Time_Slot,Day_of_Week,Lead_Time_Category,Reservation_Outcome,Attendance_Ratio
+RES-1000,Student,Auditorium,5.0,50.0,8,Cancelled,Morning,Weekday,Short Lead,Not Completed,0.16
+RES-1001,External,Auditorium,3.0,10.0,45,Used,Morning,Weekday,Short Lead,Completed,1.0
+RES-1002,Faculty,Auditorium,3.0,10.0,20,Used,Afternoon,Weekday,Short Lead,Completed,1.0
+RES-1003,Faculty,Conference Room,1.0,25.0,20,No-Show,Evening,Weekday,Last Minute,Not Completed,0.8
+RES-1004,Student,Auditorium,1.0,25.0,90,Cancelled,Morning,Weekday,Last Minute,Not Completed,1.0
+RES-1005,Student,Sports Complex,20.0,25.0,90,Used,Evening,Weekend,Early Booking,Completed,1.0
+RES-1006,Student,Classroom,10.0,10.0,20,No-Show,Morning,Weekday,Medium Lead,Not Completed,1.0
+RES-1007,Staff,Classroom,20.0,100.0,90,Cancelled,Evening,Weekday,Early Booking,Not Completed,0.9
+RES-1008,Faculty,Auditorium,0.0,10.0,45,Used,Afternoon,Weekend,Last Minute,Completed,1.0
+RES-1009,Faculty,Conference Room,5.0,10.0,0,Cancelled,Afternoon,Weekday,Short Lead,Not Completed,0.0
+RES-1010,Student,Conference Room,20.0,100.0,45,Cancelled,Morning,Weekday,Early Booking,Not Completed,0.45
+RES-1011,External,Sports Complex,0.0,100.0,20,Cancelled,Evening,Weekday,Last Minute,Not Completed,0.2
+RES-1012,Staff,Auditorium,0.0,100.0,20,Used,Afternoon,Weekday,Last Minute,Completed,0.2
+RES-1013,Student,Classroom,5.0,50.0,45,Used,Morning,Weekend,Short Lead,Completed,0.9
+RES-1014,Student,Conference Room,3.0,50.0,90,No-Show,Morning,Weekday,Short Lead,Not Completed,1.0
+RES-1015,Student,Auditorium,10.0,25.0,90,Used,Afternoon,Weekend,Medium Lead,Completed,1.0
+RES-1016,Student,Conference Room,0.0,10.0,20,Used,Afternoon,Weekday,Last Minute,Completed,1.0
+RES-1017,Faculty,Conference Room,10.0,25.0,8,Used,Morning,Weekday,Medium Lead,Completed,0.32
+RES-1018,Student,Classroom,0.0,25.0,90,Used,Evening,Weekday,Last Minute,Completed,1.0
+RES-1019,Student,Lab,0.0,10.0,45,Cancelled,Evening,Weekday,Last Minute,Not Completed,1.0
+RES-1020,Faculty,Sports Complex,0.0,50.0,90,No-Show,Evening,Weekday,Last Minute,Not Completed,1.0
+RES-1021,Student,Sports Complex,10.0,25.0,45,Used,Morning,Weekday,Medium Lead,Completed,1.0
+RES-1022,Student,Classroom,5.0,10.0,20,Used,Afternoon,Weekday,Short Lead,Completed,1.0
+RES-1023,Student,Conference Room,3.0,10.0,90,Used,Morning,Weekday,Short Lead,Completed,1.0
+RES-1024,Student,Auditorium,1.0,50.0,45,No-Show,Afternoon,Weekend,Last Minute,Not Completed,0.9
+RES-1025,Staff,Conference Room,20.0,10.0,20,Cancelled,Evening,Weekday,Early Booking,Not Completed,1.0
+RES-1026,Student,Classroom,1.0,100.0,8,Used,Evening,Weekday,Last Minute,Completed,0.08
+RES-1027,Faculty,Sports Complex,10.0,25.0,45,Cancelled,Afternoon,Weekday,Medium Lead,Not Completed,1.0
+RES-1028,Faculty,Conference Room,3.0,25.0,8,No-Show,Afternoon,Weekend,Short Lead,Not Completed,0.32
+RES-1029,Student,Sports Complex,1.0,25.0,8,Cancelled,Morning,Weekday,Last Minute,Not Completed,0.32
+RES-1030,Faculty,Auditorium,3.0,50.0,0,No-Show,Evening,Weekend,Short Lead,Not Completed,0.0
+RES-1031,Student,Sports Complex,1.0,10.0,90,Used,Morning,Weekday,Last Minute,Completed,1.0
+RES-1032,Student,Sports Complex,5.0,50.0,45,Cancelled,Morning,Weekday,Short Lead,Not Completed,0.9
+RES-1033,External,Lab,3.0,25.0,8,Used,Morning,Weekday,Short Lead,Completed,0.32
+RES-1034,External,Lab,1.0,10.0,0,Cancelled,Evening,Weekend,Last Minute,Not Completed,0.0
+RES-1035,Staff,Lab,20.0,100.0,20,Cancelled,Morning,Weekday,Early Booking,Not Completed,0.2
+RES-1036,Student,Sports Complex,1.0,50.0,45,Cancelled,Morning,Weekday,Last Minute,Not Completed,0.9
+RES-1037,Student,Classroom,3.0,50.0,8,Cancelled,Morning,Weekday,Short Lead,Not Completed,0.16
+RES-1038,Faculty,Sports Complex,20.0,100.0,90,Used,Morning,Weekday,Early Booking,Completed,0.9
+RES-1039,Student,Classroom,5.0,100.0,0,Used,Morning,Weekend,Short Lead,Completed,0.0
+RES-1040,Student,Classroom,0.0,50.0,8,No-Show,Morning,Weekday,Last Minute,Not Completed,0.16
+RES-1041,Student,Lab,20.0,50.0,90,No-Show,Evening,Weekend,Early Booking,Not Completed,1.0
+RES-1042,Student,Conference Room,5.0,50.0,8,Used,Morning,Weekday,Short Lead,Completed,0.16
+RES-1043,External,Auditorium,1.0,50.0,45,Used,Afternoon,Weekday,Last Minute,Completed,0.9
+RES-1044,Student,Lab,0.0,25.0,45,Used,Morning,Weekday,Last Minute,Completed,1.0
+RES-1045,Faculty,Lab,10.0,50.0,45,Cancelled,Morning,Weekday,Medium Lead,Not Completed,0.9
+RES-1046,Student,Conference Room,5.0,10.0,0,Cancelled,Evening,Weekday,Short Lead,Not Completed,0.0
+RES-1047,Faculty,Auditorium,3.0,100.0,45,Used,Evening,Weekday,Short Lead,Completed,0.45
+RES-1048,Faculty,Sports Complex,20.0,100.0,90,Used,Afternoon,Weekday,Early Booking,Completed,0.9
+RES-1049,Student,Sports Complex,10.0,25.0,8,Cancelled,Afternoon,Weekend,Medium Lead,Not Completed,0.32
+RES-1050,External,Lab,0.0,50.0,20,Cancelled,Evening,Weekend,Last Minute,Not Completed,0.4
+RES-1051,Staff,Auditorium,1.0,10.0,90,Used,Evening,Weekend,Last Minute,Completed,1.0
+RES-1052,External,Lab,1.0,10.0,90,Used,Morning,Weekend,Last Minute,Completed,1.0
+RES-1053,Staff,Classroom,5.0,50.0,45,Used,Evening,Weekday,Short Lead,Completed,0.9
+RES-1054,Faculty,Lab,0.0,10.0,0,Used,Afternoon,Weekday,Last Minute,Completed,0.0
+RES-1055,External,Lab,3.0,50.0,8,Used,Morning,Weekday,Short Lead,Completed,0.16
+RES-1056,Student,Sports Complex,5.0,50.0,0,Cancelled,Afternoon,Weekday,Short Lead,Not Completed,0.0
+RES-1057,Student,Sports Complex,20.0,25.0,8,No-Show,Morning,Weekday,Early Booking,Not Completed,0.32
+RES-1058,Student,Sports Complex,1.0,25.0,8,Cancelled,Evening,Weekday,Last Minute,Not Completed,0.32
+RES-1059,Student,Classroom,10.0,10.0,0,Cancelled,Afternoon,Weekday,Medium Lead,Not Completed,0.0
+RES-1060,Student,Sports Complex,0.0,25.0,90,Used,Morning,Weekday,Last Minute,Completed,1.0
+RES-1061,Student,Auditorium,10.0,100.0,8,Used,Morning,Weekday,Medium Lead,Completed,0.08
+RES-1062,Staff,Conference Room,0.0,25.0,0,Used,Evening,Weekday,Last Minute,Completed,0.0
+RES-1063,Student,Auditorium,1.0,10.0,8,Used,Evening,Weekday,Last Minute,Completed,0.8
+RES-1064,Student,Auditorium,10.0,25.0,20,Cancelled,Evening,Weekday,Medium Lead,Not Completed,0.8
+RES-1065,Faculty,Sports Complex,0.0,25.0,90,No-Show,Afternoon,Weekday,Last Minute,Not Completed,1.0
+RES-1066,Student,Conference Room,1.0,50.0,45,Used,Morning,Weekday,Last Minute,Completed,0.9
+RES-1067,Staff,Conference Room,5.0,10.0,8,Used,Evening,Weekend,Short Lead,Completed,0.8
+RES-1068,Student,Conference Room,5.0,50.0,20,Cancelled,Afternoon,Weekday,Short Lead,Not Completed,0.4
+RES-1069,External,Classroom,5.0,25.0,45,Used,Afternoon,Weekday,Short Lead,Completed,1.0
+RES-1070,Staff,Sports Complex,5.0,100.0,45,Used,Afternoon,Weekend,Short Lead,Completed,0.45
+RES-1071,Student,Conference Room,3.0,10.0,8,Cancelled,Evening,Weekday,Short Lead,Not Completed,0.8
+RES-1072,Student,Classroom,1.0,25.0,0,Cancelled,Evening,Weekday,Last Minute,Not Completed,0.0
+RES-1073,Staff,Lab,1.0,100.0,8,Used,Morning,Weekday,Last Minute,Completed,0.08
+RES-1074,Faculty,Lab,0.0,10.0,20,Used,Morning,Weekday,Last Minute,Completed,1.0
+RES-1075,Faculty,Classroom,20.0,100.0,45,Cancelled,Evening,Weekday,Early Booking,Not Completed,0.45
+RES-1076,Staff,Classroom,3.0,50.0,8,Used,Afternoon,Weekday,Short Lead,Completed,0.16
+RES-1077,Student,Sports Complex,1.0,10.0,0,Used,Afternoon,Weekend,Last Minute,Completed,0.0
+RES-1078,Student,Sports Complex,3.0,10.0,8,Cancelled,Afternoon,Weekday,Short Lead,Not Completed,0.8
+RES-1079,Student,Lab,20.0,50.0,90,Used,Morning,Weekday,Early Booking,Completed,1.0
+RES-1080,Staff,Conference Room,0.0,10.0,0,Cancelled,Afternoon,Weekday,Last Minute,Not Completed,0.0
+RES-1081,Faculty,Lab,3.0,25.0,20,Used,Morning,Weekday,Short Lead,Completed,0.8
+RES-1082,Student,Conference Room,3.0,10.0,45,No-Show,Morning,Weekday,Short Lead,Not Completed,1.0
+RES-1083,Student,Conference Room,3.0,25.0,8,Used,Afternoon,Weekday,Short Lead,Completed,0.32
+RES-1084,Student,Sports Complex,3.0,25.0,0,Used,Afternoon,Weekend,Short Lead,Completed,0.0
+RES-1085,Student,Auditorium,20.0,100.0,90,Used,Evening,Weekday,Early Booking,Completed,0.9
+RES-1086,Faculty,Auditorium,20.0,100.0,0,Used,Evening,Weekday,Early Booking,Completed,0.0
+RES-1087,Faculty,Classroom,3.0,100.0,90,No-Show,Afternoon,Weekday,Short Lead,Not Completed,0.9
+RES-1088,Staff,Sports Complex,5.0,50.0,20,No-Show,Morning,Weekday,Short Lead,Not Completed,0.4
+RES-1089,Student,Conference Room,20.0,10.0,45,Used,Morning,Weekday,Early Booking,Completed,1.0
+RES-1090,Student,Auditorium,5.0,50.0,20,Used,Morning,Weekday,Short Lead,Completed,0.4
+RES-1091,Faculty,Conference Room,0.0,25.0,8,Cancelled,Morning,Weekday,Last Minute,Not Completed,0.32
+RES-1092,Staff,Auditorium,3.0,25.0,0,No-Show,Morning,Weekday,Short Lead,Not Completed,0.0
+RES-1093,Faculty,Auditorium,3.0,10.0,90,Used,Evening,Weekend,Short Lead,Completed,1.0
+RES-1094,Staff,Auditorium,3.0,25.0,90,Used,Afternoon,Weekday,Short Lead,Completed,1.0
+RES-1095,Student,Sports Complex,5.0,50.0,0,Used,Evening,Weekend,Short Lead,Completed,0.0
+RES-1096,Faculty,Lab,20.0,50.0,0,Cancelled,Morning,Weekday,Early Booking,Not Completed,0.0
+RES-1097,Student,Conference Room,20.0,25.0,8,Used,Morning,Weekday,Early Booking,Completed,0.32
+RES-1098,Student,Sports Complex,3.0,10.0,20,Cancelled,Morning,Weekday,Short Lead,Not Completed,1.0
+RES-1099,Student,Sports Complex,0.0,100.0,90,Used,Morning,Weekday,Last Minute,Completed,0.9
+RES-1100,Student,Sports Complex,3.0,25.0,8,Cancelled,Afternoon,Weekday,Short Lead,Not Completed,0.32
+RES-1101,Faculty,Sports Complex,10.0,25.0,20,Used,Morning,Weekday,Medium Lead,Completed,0.8
+RES-1102,Student,Sports Complex,0.0,10.0,8,Used,Afternoon,Weekday,Last Minute,Completed,0.8
+RES-1103,Faculty,Classroom,20.0,50.0,90,Used,Morning,Weekday,Early Booking,Completed,1.0
+RES-1104,External,Conference Room,10.0,50.0,0,Cancelled,Afternoon,Weekday,Medium Lead,Not Completed,0.0
+RES-1105,Student,Sports Complex,3.0,10.0,0,Used,Evening,Weekend,Short Lead,Completed,0.0
+RES-1106,Student,Conference Room,3.0,10.0,20,Used,Morning,Weekday,Short Lead,Completed,1.0
+RES-1107,Staff,Classroom,1.0,50.0,45,Used,Afternoon,Weekday,Last Minute,Completed,0.9
+RES-1108,Student,Classroom,0.0,50.0,20,Used,Evening,Weekday,Last Minute,Completed,0.4
+RES-1109,Student,Conference Room,1.0,10.0,45,Cancelled,Morning,Weekend,Last Minute,Not Completed,1.0
+RES-1110,Student,Auditorium,10.0,100.0,8,Cancelled,Morning,Weekend,Medium Lead,Not Completed,0.08
+RES-1111,Student,Lab,3.0,10.0,8,Cancelled,Morning,Weekday,Short Lead,Not Completed,0.8
+RES-1112,External,Auditorium,1.0,25.0,90,Used,Afternoon,Weekday,Last Minute,Completed,1.0
+RES-1113,Staff,Auditorium,1.0,100.0,45,Cancelled,Afternoon,Weekday,Last Minute,Not Completed,0.45
+RES-1114,Faculty,Auditorium,3.0,25.0,90,Used,Evening,Weekday,Short Lead,Completed,1.0
+RES-1115,Staff,Sports Complex,20.0,25.0,0,Used,Afternoon,Weekday,Early Booking,Completed,0.0
+RES-1116,Staff,Classroom,1.0,25.0,45,Used,Afternoon,Weekday,Last Minute,Completed,1.0
+RES-1117,Student,Auditorium,1.0,10.0,20,Used,Morning,Weekday,Last Minute,Completed,1.0
+RES-1118,Staff,Classroom,5.0,100.0,0,Cancelled,Morning,Weekday,Short Lead,Not Completed,0.0
+RES-1119,Faculty,Conference Room,3.0,25.0,0,Cancelled,Morning,Weekend,Short Lead,Not Completed,0.0
+RES-1120,Staff,Lab,1.0,100.0,20,Cancelled,Morning,Weekday,Last Minute,Not Completed,0.2
+RES-1121,Staff,Conference Room,3.0,10.0,0,Used,Morning,Weekday,Short Lead,Completed,0.0
+RES-1122,Student,Conference Room,0.0,10.0,45,Used,Morning,Weekday,Last Minute,Completed,1.0
+RES-1123,Student,Sports Complex,0.0,25.0,90,Used,Morning,Weekend,Last Minute,Completed,1.0
+RES-1124,Student,Lab,3.0,50.0,0,Used,Evening,Weekday,Short Lead,Completed,0.0
+RES-1125,Student,Conference Room,1.0,25.0,45,Used,Evening,Weekend,Last Minute,Completed,1.0
+RES-1126,Staff,Conference Room,20.0,100.0,8,Used,Evening,Weekend,Early Booking,Completed,0.08
+RES-1127,Staff,Lab,1.0,25.0,45,Used,Evening,Weekday,Last Minute,Completed,1.0
+RES-1128,Student,Lab,3.0,100.0,90,Used,Morning,Weekday,Short Lead,Completed,0.9
+RES-1129,Faculty,Conference Room,5.0,10.0,45,Cancelled,Evening,Weekend,Short Lead,Not Completed,1.0
+RES-1130,Student,Lab,3.0,100.0,20,No-Show,Morning,Weekday,Short Lead,Not Completed,0.2
+RES-1131,Student,Conference Room,5.0,50.0,90,No-Show,Evening,Weekend,Short Lead,Not Completed,1.0
+RES-1132,Student,Conference Room,0.0,50.0,8,Cancelled,Afternoon,Weekend,Last Minute,Not Completed,0.16
+RES-1133,Student,Sports Complex,20.0,50.0,20,Used,Evening,Weekday,Early Booking,Completed,0.4
+RES-1134,External,Auditorium,0.0,50.0,45,Cancelled,Evening,Weekday,Last Minute,Not Completed,0.9
+RES-1135,Student,Conference Room,1.0,25.0,90,Cancelled,Morning,Weekend,Last Minute,Not Completed,1.0
+RES-1136,Faculty,Classroom,0.0,10.0,8,Used,Evening,Weekday,Last Minute,Completed,0.8
+RES-1137,Faculty,Auditorium,3.0,25.0,20,Used,Afternoon,Weekday,Short Lead,Completed,0.8
+RES-1138,Student,Auditorium,3.0,100.0,8,Cancelled,Morning,Weekday,Short Lead,Not Completed,0.08
+RES-1139,External,Auditorium,3.0,25.0,45,Used,Morning,Weekday,Short Lead,Completed,1.0
+RES-1140,External,Sports Complex,0.0,50.0,8,Used,Evening,Weekend,Last Minute,Completed,0.16
+RES-1141,Student,Conference Room,5.0,25.0,0,Used,Morning,Weekend,Short Lead,Completed,0.0
+RES-1142,Student,Sports Complex,0.0,10.0,20,Used,Morning,Weekday,Last Minute,Completed,1.0
+RES-1143,Student,Conference Room,20.0,10.0,8,Used,Morning,Weekday,Early Booking,Completed,0.8
+RES-1144,Student,Sports Complex,0.0,50.0,45,Used,Morning,Weekday,Last Minute,Completed,0.9
+RES-1145,Student,Sports Complex,0.0,25.0,45,Used,Morning,Weekend,Last Minute,Completed,1.0
+RES-1146,Faculty,Classroom,0.0,10.0,8,Used,Morning,Weekday,Last Minute,Completed,0.8
+RES-1147,Faculty,Sports Complex,3.0,25.0,45,Cancelled,Afternoon,Weekday,Short Lead,Not Completed,1.0
+RES-1148,Student,Lab,3.0,10.0,90,Used,Evening,Weekday,Short Lead,Completed,1.0
+RES-1149,Student,Classroom,0.0,25.0,90,Used,Afternoon,Weekday,Last Minute,Completed,1.0
+RES-1150,External,Sports Complex,10.0,10.0,90,Used,Morning,Weekend,Medium Lead,Completed,1.0
+RES-1151,Student,Auditorium,3.0,50.0,0,No-Show,Morning,Weekday,Short Lead,Not Completed,0.0
+RES-1152,Student,Lab,3.0,10.0,8,Used,Evening,Weekday,Short Lead,Completed,0.8
+RES-1153,Student,Lab,3.0,25.0,0,Used,Afternoon,Weekday,Short Lead,Completed,0.0
+RES-1154,External,Lab,1.0,25.0,45,No-Show,Evening,Weekend,Last Minute,Not Completed,1.0
+RES-1155,Student,Classroom,3.0,10.0,0,Cancelled,Afternoon,Weekday,Short Lead,Not Completed,0.0
+RES-1156,Faculty,Sports Complex,0.0,25.0,45,Used,Morning,Weekday,Last Minute,Completed,1.0
+RES-1157,Staff,Sports Complex,0.0,25.0,45,Cancelled,Evening,Weekday,Last Minute,Not Completed,1.0
+RES-1158,Student,Auditorium,10.0,25.0,20,Used,Evening,Weekend,Medium Lead,Completed,0.8
+RES-1159,Faculty,Auditorium,20.0,10.0,90,Used,Morning,Weekday,Early Booking,Completed,1.0
+RES-1160,Student,Lab,1.0,50.0,45,Used,Evening,Weekday,Last Minute,Completed,0.9
+RES-1161,Faculty,Auditorium,1.0,100.0,20,Used,Afternoon,Weekday,Last Minute,Completed,0.2
+RES-1162,Faculty,Classroom,5.0,50.0,90,Cancelled,Afternoon,Weekday,Short Lead,Not Completed,1.0
+RES-1163,Faculty,Sports Complex,1.0,25.0,45,Used,Afternoon,Weekday,Last Minute,Completed,1.0
+RES-1164,Student,Lab,0.0,25.0,45,Used,Afternoon,Weekend,Last Minute,Completed,1.0
+RES-1165,Staff,Auditorium,0.0,10.0,0,Cancelled,Morning,Weekday,Last Minute,Not Completed,0.0
+RES-1166,Student,Classroom,5.0,10.0,0,Cancelled,Evening,Weekday,Short Lead,Not Completed,0.0
+RES-1167,Student,Classroom,5.0,100.0,90,Used,Afternoon,Weekday,Short Lead,Completed,0.9
+RES-1168,Student,Auditorium,0.0,10.0,45,Cancelled,Morning,Weekday,Last Minute,Not Completed,1.0
+RES-1169,Faculty,Sports Complex,1.0,25.0,8,Used,Evening,Weekday,Last Minute,Completed,0.32
+RES-1170,Faculty,Auditorium,1.0,25.0,0,Cancelled,Evening,Weekend,Last Minute,Not Completed,0.0
+RES-1171,Student,Lab,5.0,50.0,90,Cancelled,Morning,Weekday,Short Lead,Not Completed,1.0
+RES-1172,Faculty,Auditorium,3.0,25.0,45,No-Show,Morning,Weekday,Short Lead,Not Completed,1.0
+RES-1173,Student,Classroom,0.0,25.0,45,Used,Afternoon,Weekday,Last Minute,Completed,1.0
+RES-1174,Faculty,Auditorium,10.0,10.0,8,Used,Evening,Weekday,Medium Lead,Completed,0.8
+RES-1175,Student,Sports Complex,0.0,25.0,90,Used,Evening,Weekday,Last Minute,Completed,1.0
+RES-1176,Faculty,Conference Room,5.0,10.0,45,Used,Morning,Weekday,Short Lead,Completed,1.0
+RES-1177,Student,Auditorium,1.0,25.0,0,Used,Evening,Weekend,Last Minute,Completed,0.0
+RES-1178,External,Sports Complex,0.0,25.0,8,No-Show,Afternoon,Weekday,Last Minute,Not Completed,0.32
+RES-1179,Student,Sports Complex,1.0,10.0,90,Used,Evening,Weekday,Last Minute,Completed,1.0
+RES-1180,Student,Classroom,5.0,25.0,8,Used,Morning,Weekend,Short Lead,Completed,0.32
+RES-1181,Student,Sports Complex,10.0,10.0,0,Cancelled,Morning,Weekday,Medium Lead,Not Completed,0.0
+RES-1182,External,Sports Complex,10.0,25.0,90,Used,Afternoon,Weekday,Medium Lead,Completed,1.0
+RES-1183,Staff,Sports Complex,1.0,50.0,8,Cancelled,Afternoon,Weekday,Last Minute,Not Completed,0.16
+RES-1184,Student,Sports Complex,5.0,50.0,20,Used,Evening,Weekday,Short Lead,Completed,0.4
+RES-1185,Faculty,Lab,0.0,10.0,0,Used,Evening,Weekday,Last Minute,Completed,0.0
+RES-1186,Staff,Lab,1.0,10.0,0,Used,Morning,Weekday,Last Minute,Completed,0.0
+RES-1187,Faculty,Classroom,20.0,10.0,0,Used,Afternoon,Weekday,Early Booking,Completed,0.0
+RES-1188,Faculty,Auditorium,3.0,25.0,20,No-Show,Afternoon,Weekend,Short Lead,Not Completed,0.8
+RES-1189,Student,Sports Complex,0.0,50.0,20,Used,Afternoon,Weekday,Last Minute,Completed,0.4
+RES-1190,Student,Auditorium,0.0,25.0,45,Used,Evening,Weekday,Last Minute,Completed,1.0
+RES-1191,Staff,Auditorium,0.0,100.0,8,Used,Afternoon,Weekday,Last Minute,Completed,0.08
+RES-1192,External,Classroom,0.0,10.0,45,Used,Morning,Weekday,Last Minute,Completed,1.0
+RES-1193,Faculty,Sports Complex,3.0,25.0,8,No-Show,Morning,Weekday,Short Lead,Not Completed,0.32
+RES-1194,Student,Sports Complex,3.0,50.0,20,Used,Evening,Weekend,Short Lead,Completed,0.4
+RES-1195,Student,Conference Room,20.0,100.0,20,Cancelled,Evening,Weekend,Early Booking,Not Completed,0.2
+RES-1196,Faculty,Auditorium,10.0,50.0,45,No-Show,Afternoon,Weekday,Medium Lead,Not Completed,0.9
+RES-1197,Staff,Auditorium,1.0,50.0,90,Used,Evening,Weekend,Last Minute,Completed,1.0
+RES-1198,Staff,Lab,1.0,10.0,45,No-Show,Morning,Weekday,Last Minute,Not Completed,1.0
+RES-1199,Staff,Conference Room,1.0,50.0,8,Used,Afternoon,Weekday,Last Minute,Completed,0.16
+RES-1200,Faculty,Lab,3.0,10.0,45,Used,Morning,Weekday,Short Lead,Completed,1.0
+RES-1201,Student,Lab,1.0,100.0,0,Used,Afternoon,Weekend,Last Minute,Completed,0.0
+RES-1202,Student,Lab,5.0,25.0,8,Cancelled,Evening,Weekday,Short Lead,Not Completed,0.32
+RES-1203,Staff,Classroom,1.0,50.0,8,No-Show,Afternoon,Weekday,Last Minute,Not Completed,0.16
+RES-1204,Faculty,Classroom,3.0,25.0,90,Used,Afternoon,Weekend,Short Lead,Completed,1.0
+RES-1205,Student,Lab,3.0,25.0,20,Cancelled,Morning,Weekday,Short Lead,Not Completed,0.8
+RES-1206,Student,Conference Room,1.0,25.0,8,Used,Morning,Weekday,Last Minute,Completed,0.32
+RES-1207,Faculty,Auditorium,20.0,50.0,20,Used,Afternoon,Weekday,Early Booking,Completed,0.4
+RES-1208,Student,Conference Room,5.0,10.0,45,Used,Evening,Weekday,Short Lead,Completed,1.0
+RES-1209,Student,Sports Complex,0.0,10.0,0,No-Show,Evening,Weekday,Last Minute,Not Completed,0.0
+RES-1210,Faculty,Classroom,10.0,10.0,90,Cancelled,Morning,Weekday,Medium Lead,Not Completed,1.0
+RES-1211,Faculty,Auditorium,3.0,10.0,20,Used,Evening,Weekday,Short Lead,Completed,1.0
+RES-1212,Faculty,Auditorium,20.0,100.0,8,Used,Morning,Weekend,Early Booking,Completed,0.08
+RES-1213,Student,Sports Complex,10.0,10.0,20,Used,Evening,Weekday,Medium Lead,Completed,1.0
+RES-1214,Faculty,Sports Complex,3.0,100.0,8,Used,Afternoon,Weekday,Short Lead,Completed,0.08
+RES-1215,Student,Lab,0.0,10.0,20,Used,Morning,Weekday,Last Minute,Completed,1.0
+RES-1216,Student,Classroom,1.0,10.0,8,No-Show,Morning,Weekday,Last Minute,Not Completed,0.8
+RES-1217,Faculty,Classroom,3.0,50.0,45,Used,Afternoon,Weekday,Short Lead,Completed,0.9
+RES-1218,Faculty,Conference Room,5.0,50.0,8,Used,Morning,Weekday,Short Lead,Completed,0.16
+RES-1219,Staff,Lab,1.0,25.0,8,Used,Evening,Weekday,Last Minute,Completed,0.32
+RES-1220,Faculty,Lab,0.0,25.0,0,No-Show,Evening,Weekday,Last Minute,Not Completed,0.0
+RES-1221,Faculty,Lab,10.0,50.0,8,Cancelled,Morning,Weekday,Medium Lead,Not Completed,0.16
+RES-1222,Student,Lab,3.0,10.0,0,Used,Evening,Weekday,Short Lead,Completed,0.0
+RES-1223,Student,Classroom,3.0,100.0,90,Cancelled,Morning,Weekday,Short Lead,Not Completed,0.9
+RES-1224,Student,Classroom,0.0,100.0,0,Used,Afternoon,Weekday,Last Minute,Completed,0.0
+RES-1225,Student,Lab,1.0,50.0,45,Used,Morning,Weekday,Last Minute,Completed,0.9
+RES-1226,External,Conference Room,3.0,10.0,0,Used,Afternoon,Weekday,Short Lead,Completed,0.0
+RES-1227,Student,Auditorium,20.0,50.0,90,Used,Evening,Weekday,Early Booking,Completed,1.0
+RES-1228,Staff,Auditorium,0.0,10.0,45,Used,Afternoon,Weekend,Last Minute,Completed,1.0
+RES-1229,Faculty,Conference Room,3.0,25.0,20,No-Show,Evening,Weekday,Short Lead,Not Completed,0.8
+RES-1230,Staff,Lab,1.0,10.0,20,Cancelled,Morning,Weekday,Last Minute,Not Completed,1.0
+RES-1231,Faculty,Classroom,3.0,25.0,0,Cancelled,Evening,Weekend,Short Lead,Not Completed,0.0
+RES-1232,Faculty,Auditorium,5.0,100.0,0,Used,Morning,Weekday,Short Lead,Completed,0.0
+RES-1233,Student,Sports Complex,10.0,50.0,90,Used,Morning,Weekday,Medium Lead,Completed,1.0
+RES-1234,Student,Sports Complex,0.0,50.0,90,Cancelled,Afternoon,Weekday,Last Minute,Not Completed,1.0
+RES-1235,Faculty,Conference Room,3.0,25.0,8,Used,Afternoon,Weekday,Short Lead,Completed,0.32
+RES-1236,Student,Lab,0.0,10.0,90,Used,Afternoon,Weekend,Last Minute,Completed,1.0
+RES-1237,Student,Auditorium,20.0,25.0,8,Used,Afternoon,Weekday,Early Booking,Completed,0.32
+RES-1238,Faculty,Lab,20.0,100.0,45,Cancelled,Evening,Weekend,Early Booking,Not Completed,0.45
+RES-1239,Student,Auditorium,3.0,25.0,0,Used,Evening,Weekday,Short Lead,Completed,0.0
+RES-1240,External,Conference Room,3.0,100.0,45,Used,Evening,Weekday,Short Lead,Completed,0.45
+RES-1241,External,Conference Room,5.0,25.0,90,Cancelled,Morning,Weekday,Short Lead,Not Completed,1.0
+RES-1242,External,Sports Complex,0.0,25.0,45,Used,Evening,Weekday,Last Minute,Completed,1.0
+RES-1243,Student,Lab,20.0,50.0,45,Used,Evening,Weekday,Early Booking,Completed,0.9
+RES-1244,Student,Sports Complex,1.0,25.0,45,Used,Evening,Weekend,Last Minute,Completed,1.0
+RES-1245,External,Lab,1.0,100.0,90,Used,Afternoon,Weekday,Last Minute,Completed,0.9
+RES-1246,Student,Sports Complex,3.0,100.0,45,Cancelled,Evening,Weekday,Short Lead,Not Completed,0.45
+RES-1247,External,Classroom,0.0,25.0,8,Used,Morning,Weekday,Last Minute,Completed,0.32
+RES-1248,External,Classroom,0.0,10.0,90,Used,Afternoon,Weekday,Last Minute,Completed,1.0
+RES-1249,Staff,Classroom,5.0,25.0,45,No-Show,Morning,Weekday,Short Lead,Not Completed,1.0
+RES-1250,Student,Classroom,0.0,100.0,90,No-Show,Evening,Weekday,Last Minute,Not Completed,0.9
+RES-1251,Student,Auditorium,3.0,10.0,20,No-Show,Afternoon,Weekday,Short Lead,Not Completed,1.0
+RES-1252,Staff,Classroom,1.0,25.0,8,Used,Morning,Weekday,Last Minute,Completed,0.32
+RES-1253,Student,Conference Room,1.0,25.0,45,Used,Evening,Weekday,Last Minute,Completed,1.0
+RES-1254,Student,Conference Room,1.0,50.0,20,No-Show,Morning,Weekend,Last Minute,Not Completed,0.4
+RES-1255,Faculty,Auditorium,1.0,10.0,20,Cancelled,Morning,Weekend,Last Minute,Not Completed,1.0
+RES-1256,External,Classroom,5.0,50.0,90,Used,Morning,Weekday,Short Lead,Completed,1.0
+RES-1257,Faculty,Classroom,1.0,100.0,20,Used,Evening,Weekday,Last Minute,Completed,0.2
+RES-1258,Faculty,Classroom,3.0,10.0,8,Used,Evening,Weekend,Short Lead,Completed,0.8
+RES-1259,Student,Sports Complex,3.0,10.0,8,No-Show,Morning,Weekday,Short Lead,Not Completed,0.8
+RES-1260,Faculty,Lab,5.0,100.0,0,Used,Afternoon,Weekend,Short Lead,Completed,0.0
+RES-1261,External,Sports Complex,20.0,10.0,8,Used,Afternoon,Weekday,Early Booking,Completed,0.8
+RES-1262,Student,Lab,5.0,100.0,20,Used,Evening,Weekday,Short Lead,Completed,0.2
+RES-1263,Faculty,Classroom,0.0,25.0,8,Cancelled,Evening,Weekend,Last Minute,Not Completed,0.32
+RES-1264,Staff,Classroom,0.0,10.0,90,Cancelled,Evening,Weekend,Last Minute,Not Completed,1.0
+RES-1265,Faculty,Sports Complex,1.0,100.0,0,Used,Evening,Weekday,Last Minute,Completed,0.0
+RES-1266,Faculty,Sports Complex,3.0,25.0,20,Cancelled,Evening,Weekday,Short Lead,Not Completed,0.8
+RES-1267,Faculty,Lab,0.0,25.0,0,No-Show,Afternoon,Weekday,Last Minute,Not Completed,0.0
+RES-1268,Student,Conference Room,3.0,25.0,20,Used,Evening,Weekday,Short Lead,Completed,0.8
+RES-1269,Student,Lab,3.0,25.0,90,Used,Morning,Weekday,Short Lead,Completed,1.0
+RES-1270,Staff,Sports Complex,1.0,10.0,0,Used,Morning,Weekday,Last Minute,Completed,0.0
+RES-1271,Staff,Sports Complex,10.0,25.0,45,Cancelled,Afternoon,Weekend,Medium Lead,Not Completed,1.0
+RES-1272,Staff,Auditorium,0.0,100.0,20,Used,Morning,Weekday,Last Minute,Completed,0.2
+RES-1273,External,Sports Complex,0.0,10.0,45,Cancelled,Afternoon,Weekday,Last Minute,Not Completed,1.0
+RES-1274,Faculty,Auditorium,5.0,50.0,0,Cancelled,Afternoon,Weekday,Short Lead,Not Completed,0.0
+RES-1275,Faculty,Conference Room,3.0,10.0,45,Used,Morning,Weekday,Short Lead,Completed,1.0
+RES-1276,Staff,Lab,5.0,50.0,45,No-Show,Evening,Weekday,Short Lead,Not Completed,0.9
+RES-1277,Faculty,Lab,3.0,10.0,0,Used,Morning,Weekday,Short Lead,Completed,0.0
+RES-1278,Faculty,Auditorium,1.0,100.0,90,Used,Morning,Weekday,Last Minute,Completed,0.9
+RES-1279,Staff,Lab,10.0,25.0,45,Cancelled,Afternoon,Weekend,Medium Lead,Not Completed,1.0
+RES-1280,Staff,Sports Complex,10.0,10.0,45,Cancelled,Morning,Weekend,Medium Lead,Not Completed,1.0
+RES-1281,Student,Classroom,5.0,10.0,90,Used,Afternoon,Weekday,Short Lead,Completed,1.0
+RES-1282,Student,Auditorium,1.0,10.0,45,No-Show,Evening,Weekend,Last Minute,Not Completed,1.0
+RES-1283,Student,Lab,3.0,25.0,45,No-Show,Evening,Weekday,Short Lead,Not Completed,1.0
+RES-1284,Faculty,Auditorium,1.0,10.0,45,Used,Evening,Weekday,Last Minute,Completed,1.0
+RES-1285,Student,Auditorium,0.0,50.0,8,No-Show,Morning,Weekday,Last Minute,Not Completed,0.16
+RES-1286,Student,Classroom,20.0,25.0,90,Used,Afternoon,Weekday,Early Booking,Completed,1.0
+RES-1287,Faculty,Sports Complex,0.0,10.0,45,Used,Evening,Weekday,Last Minute,Completed,1.0
+RES-1288,Student,Auditorium,20.0,25.0,90,Used,Afternoon,Weekend,Early Booking,Completed,1.0
+RES-1289,Faculty,Lab,3.0,50.0,20,No-Show,Afternoon,Weekday,Short Lead,Not Completed,0.4
+RES-1290,Student,Conference Room,0.0,10.0,20,Cancelled,Evening,Weekend,Last Minute,Not Completed,1.0
+RES-1291,Student,Auditorium,3.0,10.0,45,Used,Evening,Weekday,Short Lead,Completed,1.0
+RES-1292,Staff,Auditorium,20.0,25.0,90,Used,Afternoon,Weekday,Early Booking,Completed,1.0
+RES-1293,Student,Classroom,5.0,50.0,90,Cancelled,Evening,Weekend,Short Lead,Not Completed,1.0
+RES-1294,Student,Sports Complex,10.0,50.0,90,Used,Afternoon,Weekday,Medium Lead,Completed,1.0
+RES-1295,Faculty,Conference Room,5.0,25.0,8,No-Show,Afternoon,Weekday,Short Lead,Not Completed,0.32
+RES-1296,Staff,Lab,5.0,50.0,20,Cancelled,Evening,Weekday,Short Lead,Not Completed,0.4
+RES-1297,Student,Conference Room,10.0,50.0,90,Used,Morning,Weekday,Medium Lead,Completed,1.0
+RES-1298,Faculty,Lab,1.0,25.0,90,No-Show,Evening,Weekday,Last Minute,Not Completed,1.0
+RES-1299,Student,Sports Complex,3.0,100.0,8,Used,Morning,Weekday,Short Lead,Completed,0.08
+RES-1300,Student,Lab,1.0,10.0,8,No-Show,Afternoon,Weekday,Last Minute,Not Completed,0.8
+RES-1301,Faculty,Classroom,3.0,10.0,90,Cancelled,Afternoon,Weekend,Short Lead,Not Completed,1.0
+RES-1302,Faculty,Classroom,20.0,10.0,0,Cancelled,Morning,Weekday,Early Booking,Not Completed,0.0
+RES-1303,Faculty,Classroom,0.0,10.0,90,Used,Afternoon,Weekday,Last Minute,Completed,1.0
+RES-1304,Faculty,Classroom,5.0,25.0,90,No-Show,Morning,Weekday,Short Lead,Not Completed,1.0
+RES-1305,External,Conference Room,20.0,100.0,8,Used,Morning,Weekend,Early Booking,Completed,0.08
+RES-1306,Faculty,Sports Complex,0.0,25.0,8,Used,Afternoon,Weekday,Last Minute,Completed,0.32
+RES-1307,Student,Lab,3.0,10.0,90,Used,Morning,Weekday,Short Lead,Completed,1.0
+RES-1308,Staff,Lab,20.0,25.0,90,Used,Evening,Weekday,Early Booking,Completed,1.0
+RES-1309,Student,Classroom,0.0,100.0,90,Used,Evening,Weekday,Last Minute,Completed,0.9
+RES-1310,Student,Classroom,5.0,10.0,8,Cancelled,Afternoon,Weekend,Short Lead,Not Completed,0.8
+RES-1311,Student,Auditorium,1.0,25.0,90,No-Show,Afternoon,Weekday,Last Minute,Not Completed,1.0
+RES-1312,Student,Sports Complex,20.0,25.0,90,Used,Morning,Weekday,Early Booking,Completed,1.0
+RES-1313,External,Conference Room,3.0,10.0,45,Cancelled,Morning,Weekday,Short Lead,Not Completed,1.0
+RES-1314,Staff,Lab,20.0,100.0,0,Used,Morning,Weekday,Early Booking,Completed,0.0
+RES-1315,Faculty,Auditorium,3.0,100.0,20,No-Show,Morning,Weekend,Short Lead,Not Completed,0.2
+RES-1316,Student,Auditorium,10.0,25.0,0,Cancelled,Evening,Weekend,Medium Lead,Not Completed,0.0
+RES-1317,Student,Lab,10.0,100.0,45,Used,Evening,Weekday,Medium Lead,Completed,0.45
+RES-1318,Student,Conference Room,1.0,25.0,20,Cancelled,Afternoon,Weekend,Last Minute,Not Completed,0.8
+RES-1319,Student,Auditorium,10.0,100.0,90,Used,Morning,Weekday,Medium Lead,Completed,0.9
+RES-1320,Faculty,Auditorium,0.0,25.0,45,Used,Morning,Weekday,Last Minute,Completed,1.0
+RES-1321,Faculty,Sports Complex,3.0,25.0,90,Cancelled,Afternoon,Weekday,Short Lead,Not Completed,1.0
+RES-1322,Faculty,Conference Room,1.0,25.0,8,Used,Morning,Weekday,Last Minute,Completed,0.32
+RES-1323,Student,Auditorium,0.0,50.0,45,Used,Morning,Weekday,Last Minute,Completed,0.9
+RES-1324,External,Conference Room,0.0,10.0,8,Used,Morning,Weekend,Last Minute,Completed,0.8
+RES-1325,Faculty,Lab,5.0,25.0,45,Cancelled,Morning,Weekday,Short Lead,Not Completed,1.0
+RES-1326,Faculty,Classroom,1.0,10.0,45,Used,Morning,Weekend,Last Minute,Completed,1.0
+RES-1327,Faculty,Auditorium,5.0,50.0,8,Used,Afternoon,Weekday,Short Lead,Completed,0.16
+RES-1328,Student,Sports Complex,0.0,10.0,20,Cancelled,Morning,Weekend,Last Minute,Not Completed,1.0
+RES-1329,Student,Lab,1.0,50.0,0,Cancelled,Afternoon,Weekday,Last Minute,Not Completed,0.0
+RES-1330,Student,Conference Room,3.0,100.0,90,Used,Morning,Weekday,Short Lead,Completed,0.9
+RES-1331,Staff,Lab,10.0,10.0,45,Used,Evening,Weekday,Medium Lead,Completed,1.0
+RES-1332,Student,Auditorium,1.0,50.0,90,Used,Evening,Weekend,Last Minute,Completed,1.0
+RES-1333,Student,Conference Room,5.0,25.0,8,Used,Evening,Weekday,Short Lead,Completed,0.32
+RES-1334,Student,Classroom,20.0,100.0,90,Used,Evening,Weekend,Early Booking,Completed,0.9
+RES-1335,Student,Lab,3.0,10.0,8,Cancelled,Afternoon,Weekday,Short Lead,Not Completed,0.8
+RES-1336,Staff,Auditorium,1.0,50.0,90,Cancelled,Afternoon,Weekday,Last Minute,Not Completed,1.0
+RES-1337,Faculty,Sports Complex,0.0,50.0,0,Cancelled,Morning,Weekend,Last Minute,Not Completed,0.0
+RES-1338,Student,Conference Room,20.0,100.0,0,Used,Evening,Weekday,Early Booking,Completed,0.0
+RES-1339,Student,Lab,0.0,50.0,0,Cancelled,Afternoon,Weekday,Last Minute,Not Completed,0.0
+RES-1340,Student,Lab,20.0,25.0,0,Used,Morning,Weekday,Early Booking,Completed,0.0
+RES-1341,Student,Classroom,3.0,25.0,0,No-Show,Morning,Weekend,Short Lead,Not Completed,0.0
+RES-1342,Student,Classroom,20.0,100.0,0,Cancelled,Afternoon,Weekday,Early Booking,Not Completed,0.0
+RES-1343,Student,Sports Complex,10.0,25.0,8,Used,Evening,Weekend,Medium Lead,Completed,0.32
+RES-1344,Student,Sports Complex,3.0,25.0,45,Cancelled,Morning,Weekday,Short Lead,Not Completed,1.0
+RES-1345,Faculty,Auditorium,1.0,100.0,90,Used,Evening,Weekend,Last Minute,Completed,0.9
+RES-1346,Faculty,Auditorium,5.0,50.0,0,Cancelled,Evening,Weekend,Short Lead,Not Completed,0.0
+RES-1347,Student,Sports Complex,1.0,50.0,8,Used,Evening,Weekday,Last Minute,Completed,0.16
+RES-1348,Student,Sports Complex,3.0,10.0,8,Used,Morning,Weekday,Short Lead,Completed,0.8
+RES-1349,Faculty,Conference Room,5.0,50.0,8,No-Show,Evening,Weekday,Short Lead,Not Completed,0.16
+RES-1350,Faculty,Classroom,20.0,25.0,45,Used,Morning,Weekday,Early Booking,Completed,1.0
+RES-1351,Staff,Auditorium,3.0,50.0,90,Cancelled,Evening,Weekday,Short Lead,Not Completed,1.0
+RES-1352,Faculty,Classroom,5.0,10.0,45,Used,Morning,Weekday,Short Lead,Completed,1.0
+RES-1353,Student,Classroom,1.0,50.0,20,Cancelled,Evening,Weekday,Last Minute,Not Completed,0.4
+RES-1354,Student,Sports Complex,3.0,100.0,8,Cancelled,Afternoon,Weekday,Short Lead,Not Completed,0.08
+RES-1355,Faculty,Conference Room,5.0,25.0,20,Used,Evening,Weekday,Short Lead,Completed,0.8
+RES-1356,Student,Lab,1.0,100.0,0,Used,Evening,Weekday,Last Minute,Completed,0.0
+RES-1357,Faculty,Conference Room,0.0,25.0,0,Used,Morning,Weekend,Last Minute,Completed,0.0
+RES-1358,External,Conference Room,1.0,100.0,45,Used,Morning,Weekday,Last Minute,Completed,0.45
+RES-1359,Faculty,Classroom,1.0,50.0,90,Used,Evening,Weekday,Last Minute,Completed,1.0
+RES-1360,Student,Conference Room,1.0,25.0,20,Cancelled,Afternoon,Weekday,Last Minute,Not Completed,0.8
+RES-1361,Faculty,Auditorium,1.0,50.0,90,No-Show,Afternoon,Weekend,Last Minute,Not Completed,1.0
+RES-1362,Student,Classroom,0.0,100.0,45,No-Show,Morning,Weekend,Last Minute,Not Completed,0.45
+RES-1363,Faculty,Auditorium,3.0,25.0,0,Cancelled,Afternoon,Weekend,Short Lead,Not Completed,0.0
+RES-1364,External,Lab,3.0,10.0,90,Cancelled,Evening,Weekend,Short Lead,Not Completed,1.0
+RES-1365,Student,Classroom,3.0,50.0,90,Cancelled,Morning,Weekday,Short Lead,Not Completed,1.0
+RES-1366,External,Lab,1.0,50.0,0,Used,Evening,Weekend,Last Minute,Completed,0.0
+RES-1367,External,Classroom,5.0,50.0,20,No-Show,Morning,Weekday,Short Lead,Not Completed,0.4
+RES-1368,Student,Sports Complex,0.0,50.0,0,Cancelled,Morning,Weekday,Last Minute,Not Completed,0.0
+RES-1369,Student,Conference Room,20.0,25.0,90,Used,Morning,Weekend,Early Booking,Completed,1.0
+RES-1370,Student,Sports Complex,10.0,50.0,20,Used,Morning,Weekday,Medium Lead,Completed,0.4
+RES-1371,Student,Lab,0.0,10.0,20,Used,Afternoon,Weekday,Last Minute,Completed,1.0
+RES-1372,Student,Conference Room,1.0,25.0,0,Used,Evening,Weekday,Last Minute,Completed,0.0
+RES-1373,Faculty,Classroom,20.0,25.0,90,No-Show,Evening,Weekday,Early Booking,Not Completed,1.0
+RES-1374,Student,Conference Room,20.0,10.0,45,Used,Evening,Weekday,Early Booking,Completed,1.0
+RES-1375,Student,Auditorium,3.0,25.0,90,Used,Morning,Weekday,Short Lead,Completed,1.0
+RES-1376,Staff,Conference Room,3.0,25.0,8,No-Show,Afternoon,Weekday,Short Lead,Not Completed,0.32
+RES-1377,Student,Auditorium,0.0,50.0,45,Used,Evening,Weekday,Last Minute,Completed,0.9
+RES-1378,Staff,Conference Room,3.0,25.0,20,Used,Afternoon,Weekend,Short Lead,Completed,0.8
+RES-1379,Student,Auditorium,1.0,25.0,45,Used,Morning,Weekday,Last Minute,Completed,1.0
+RES-1380,Student,Lab,20.0,10.0,20,Cancelled,Evening,Weekday,Early Booking,Not Completed,1.0
+RES-1381,Faculty,Sports Complex,5.0,25.0,20,No-Show,Afternoon,Weekend,Short Lead,Not Completed,0.8
+RES-1382,Faculty,Classroom,3.0,10.0,45,Used,Morning,Weekend,Short Lead,Completed,1.0
+RES-1383,Staff,Conference Room,3.0,10.0,20,No-Show,Afternoon,Weekday,Short Lead,Not Completed,1.0
+RES-1384,Faculty,Sports Complex,1.0,25.0,20,Used,Evening,Weekday,Last Minute,Completed,0.8
+RES-1385,Staff,Classroom,0.0,50.0,8,No-Show,Evening,Weekend,Last Minute,Not Completed,0.16
+RES-1386,Student,Classroom,1.0,25.0,90,Cancelled,Morning,Weekend,Last Minute,Not Completed,1.0
+RES-1387,Student,Auditorium,0.0,25.0,90,Cancelled,Morning,Weekday,Last Minute,Not Completed,1.0
+RES-1388,Staff,Lab,10.0,25.0,8,Used,Morning,Weekday,Medium Lead,Completed,0.32
+RES-1389,Staff,Lab,1.0,100.0,45,No-Show,Afternoon,Weekday,Last Minute,Not Completed,0.45
+RES-1390,External,Sports Complex,0.0,25.0,0,Cancelled,Afternoon,Weekday,Last Minute,Not Completed,0.0
+RES-1391,Student,Lab,20.0,25.0,0,Used,Afternoon,Weekday,Early Booking,Completed,0.0
+RES-1392,Student,Conference Room,20.0,25.0,0,Cancelled,Morning,Weekday,Early Booking,Not Completed,0.0
+RES-1393,Staff,Lab,20.0,10.0,8,Used,Evening,Weekday,Early Booking,Completed,0.8
+RES-1394,Student,Sports Complex,3.0,25.0,8,No-Show,Evening,Weekday,Short Lead,Not Completed,0.32
+RES-1395,External,Lab,0.0,25.0,20,Used,Afternoon,Weekday,Last Minute,Completed,0.8
+RES-1396,Staff,Conference Room,1.0,25.0,0,Cancelled,Afternoon,Weekend,Last Minute,Not Completed,0.0
+RES-1397,Student,Auditorium,5.0,25.0,45,Used,Evening,Weekday,Short Lead,Completed,1.0
+RES-1398,Staff,Sports Complex,5.0,25.0,45,Used,Evening,Weekday,Short Lead,Completed,1.0
+RES-1399,Staff,Auditorium,0.0,50.0,0,Used,Afternoon,Weekend,Last Minute,Completed,0.0

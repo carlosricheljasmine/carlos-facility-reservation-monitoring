@@ -1,0 +1,81 @@
+User_Category,Facility_Type,Lead_Time_Days,Participants,Time_Slot,Day_of_Week,midterm_prediction,actual_outcome
+Student,Conference Room,1.0,25.0,Evening,Weekday,Completed,Completed
+Staff,Classroom,5.0,100.0,Morning,Weekday,Completed,Not Completed
+Faculty,Auditorium,5.0,50.0,Afternoon,Weekday,Not Completed,Not Completed
+Student,Lab,3.0,25.0,Morning,Weekday,Completed,Completed
+Student,Sports Complex,0.0,100.0,Morning,Weekday,Completed,Completed
+Student,Lab,5.0,100.0,Evening,Weekday,Completed,Completed
+External,Lab,0.0,25.0,Afternoon,Weekday,Completed,Completed
+External,Conference Room,0.0,10.0,Morning,Weekend,Completed,Completed
+Faculty,Auditorium,1.0,100.0,Evening,Weekend,Completed,Completed
+Student,Sports Complex,3.0,10.0,Afternoon,Weekday,Completed,Not Completed
+Faculty,Lab,0.0,25.0,Evening,Weekday,Completed,Not Completed
+Student,Conference Room,0.0,50.0,Afternoon,Weekend,Not Completed,Not Completed
+Student,Auditorium,1.0,25.0,Evening,Weekend,Completed,Completed
+Student,Lab,3.0,25.0,Afternoon,Weekday,Completed,Completed
+Student,Auditorium,0.0,50.0,Morning,Weekday,Not Completed,Completed
+Faculty,Auditorium,10.0,50.0,Afternoon,Weekday,Not Completed,Not Completed
+Student,Conference Room,10.0,50.0,Morning,Weekday,Not Completed,Completed
+Student,Conference Room,3.0,50.0,Morning,Weekday,Not Completed,Not Completed
+Faculty,Sports Complex,0.0,50.0,Evening,Weekday,Completed,Not Completed
+Faculty,Conference Room,5.0,50.0,Morning,Weekday,Not Completed,Completed
+Staff,Conference Room,1.0,50.0,Afternoon,Weekday,Not Completed,Completed
+External,Lab,1.0,50.0,Evening,Weekend,Not Completed,Completed
+Student,Classroom,20.0,100.0,Afternoon,Weekday,Completed,Not Completed
+Student,Sports Complex,1.0,10.0,Evening,Weekday,Completed,Completed
+Student,Lab,20.0,10.0,Evening,Weekday,Completed,Not Completed
+Faculty,Conference Room,1.0,25.0,Evening,Weekday,Completed,Not Completed
+Staff,Auditorium,1.0,50.0,Afternoon,Weekday,Not Completed,Not Completed
+Faculty,Auditorium,5.0,50.0,Afternoon,Weekday,Not Completed,Completed
+Faculty,Sports Complex,0.0,10.0,Evening,Weekday,Completed,Completed
+Student,Classroom,3.0,50.0,Morning,Weekday,Not Completed,Not Completed
+Student,Lab,3.0,10.0,Morning,Weekday,Completed,Not Completed
+Student,Conference Room,1.0,25.0,Evening,Weekday,Completed,Completed
+Student,Sports Complex,5.0,50.0,Evening,Weekday,Completed,Completed
+Faculty,Auditorium,3.0,10.0,Afternoon,Weekday,Completed,Completed
+Student,Sports Complex,3.0,10.0,Morning,Weekday,Completed,Completed
+Staff,Lab,1.0,25.0,Evening,Weekday,Completed,Completed
+Staff,Lab,1.0,25.0,Evening,Weekday,Completed,Completed
+Student,Sports Complex,0.0,50.0,Afternoon,Weekday,Completed,Not Completed
+Student,Sports Complex,3.0,25.0,Afternoon,Weekday,Completed,Not Completed
+Faculty,Conference Room,1.0,25.0,Morning,Weekday,Completed,Completed
+Student,Sports Complex,1.0,10.0,Morning,Weekday,Completed,Completed
+Student,Conference Room,20.0,100.0,Morning,Weekday,Completed,Not Completed
+Student,Conference Room,1.0,25.0,Afternoon,Weekday,Completed,Not Completed
+Staff,Auditorium,0.0,50.0,Afternoon,Weekend,Not Completed,Completed
+Student,Classroom,5.0,10.0,Afternoon,Weekend,Completed,Not Completed
+Staff,Classroom,1.0,50.0,Afternoon,Weekday,Not Completed,Completed
+Staff,Classroom,1.0,25.0,Afternoon,Weekday,Completed,Completed
+Faculty,Auditorium,3.0,100.0,Evening,Weekday,Completed,Completed
+Faculty,Lab,0.0,10.0,Morning,Weekday,Completed,Completed
+Faculty,Auditorium,20.0,50.0,Afternoon,Weekday,Completed,Completed
+Student,Conference Room,3.0,10.0,Morning,Weekday,Completed,Completed
+Student,Auditorium,0.0,50.0,Evening,Weekday,Not Completed,Completed
+Student,Auditorium,1.0,10.0,Evening,Weekend,Completed,Not Completed
+Student,Conference Room,0.0,10.0,Evening,Weekend,Completed,Not Completed
+Faculty,Conference Room,5.0,50.0,Evening,Weekday,Not Completed,Not Completed
+Staff,Conference Room,3.0,25.0,Afternoon,Weekday,Completed,Not Completed
+Faculty,Auditorium,10.0,10.0,Evening,Weekday,Completed,Completed
+Student,Sports Complex,5.0,50.0,Evening,Weekend,Completed,Completed
+Student,Lab,1.0,50.0,Evening,Weekday,Not Completed,Completed
+Faculty,Classroom,3.0,100.0,Afternoon,Weekday,Completed,Not Completed
+Staff,Auditorium,3.0,50.0,Evening,Weekday,Not Completed,Not Completed
+Faculty,Auditorium,3.0,10.0,Evening,Weekend,Completed,Completed
+External,Conference Room,3.0,10.0,Morning,Weekday,Completed,Not Completed
+Staff,Lab,5.0,50.0,Evening,Weekday,Not Completed,Not Completed
+Student,Sports Complex,0.0,10.0,Afternoon,Weekday,Completed,Completed
+Student,Classroom,1.0,25.0,Evening,Weekday,Completed,Not Completed
+Faculty,Auditorium,1.0,10.0,Morning,Weekend,Completed,Not Completed
+External,Classroom,0.0,10.0,Afternoon,Weekday,Completed,Completed
+Student,Lab,0.0,25.0,Morning,Weekday,Completed,Completed
+Faculty,Classroom,0.0,10.0,Evening,Weekday,Completed,Completed
+Student,Lab,3.0,10.0,Evening,Weekday,Completed,Completed
+Student,Sports Complex,3.0,100.0,Evening,Weekday,Completed,Not Completed
+Student,Sports Complex,3.0,25.0,Evening,Weekday,Completed,Not Completed
+Faculty,Lab,0.0,10.0,Evening,Weekday,Completed,Completed
+Student,Lab,3.0,10.0,Morning,Weekday,Completed,Completed
+Student,Conference Room,20.0,25.0,Morning,Weekday,Completed,Not Completed
+Faculty,Classroom,1.0,50.0,Evening,Weekday,Not Completed,Completed
+Faculty,Classroom,5.0,25.0,Morning,Weekday,Completed,Not Completed
+Staff,Conference Room,1.0,25.0,Afternoon,Weekend,Completed,Not Completed
+Faculty,Sports Complex,1.0,25.0,Evening,Weekday,Completed,Completed

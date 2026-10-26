@@ -1,0 +1,120 @@
+{
+  "model_name": "Decision Tree (max_depth=4) - Reservation Outcome",
+  "model_version": "1.0.0",
+  "trained_at_utc": "2026-10-26T00:34:50+00:00",
+  "sklearn_version": "1.8.0",
+  "pandas_version": "3.0.2",
+  "numpy_version": "2.4.4",
+  "random_state": 42,
+  "dataset": "data/cleaned_facility_reservations.csv",
+  "n_rows": 400,
+  "n_train": 320,
+  "n_test": 80,
+  "features": [
+    "User_Category",
+    "Facility_Type",
+    "Lead_Time_Days",
+    "Participants",
+    "Time_Slot",
+    "Day_of_Week"
+  ],
+  "categorical_features": [
+    "User_Category",
+    "Facility_Type",
+    "Time_Slot",
+    "Day_of_Week"
+  ],
+  "numeric_features": [
+    "Lead_Time_Days",
+    "Participants"
+  ],
+  "excluded_leakage_fields": [
+    "Usage_Status",
+    "Actual_Attendance",
+    "Attendance_Ratio",
+    "Reservation_Outcome"
+  ],
+  "target": "Reservation_Outcome",
+  "classes": [
+    "Completed",
+    "Not Completed"
+  ],
+  "positive_class_for_risk": "Not Completed",
+  "allowed_categories": {
+    "User_Category": [
+      "External",
+      "Faculty",
+      "Staff",
+      "Student"
+    ],
+    "Facility_Type": [
+      "Auditorium",
+      "Classroom",
+      "Conference Room",
+      "Lab",
+      "Sports Complex"
+    ],
+    "Time_Slot": [
+      "Afternoon",
+      "Evening",
+      "Morning"
+    ],
+    "Day_of_Week": [
+      "Weekday",
+      "Weekend"
+    ]
+  },
+  "training_ranges": {
+    "Lead_Time_Days": [
+      0.0,
+      20.0
+    ],
+    "Participants": [
+      10.0,
+      100.0
+    ]
+  },
+  "training_medians": {
+    "Lead_Time_Days": 3.0,
+    "Participants": 25.0
+  },
+  "metrics": {
+    "accuracy": 0.55,
+    "precision_weighted": 0.5266666666666667,
+    "recall_weighted": 0.55,
+    "f1_weighted": 0.5213836477987421
+  },
+  "confusion_matrix": [
+    [
+      35,
+      11
+    ],
+    [
+      25,
+      9
+    ]
+  ],
+  "per_class": {
+    "Completed": {
+      "precision": 0.5833333333333334,
+      "recall": 0.7608695652173914,
+      "f1-score": 0.660377358490566,
+      "support": 46.0
+    },
+    "Not Completed": {
+      "precision": 0.45,
+      "recall": 0.2647058823529412,
+      "f1-score": 0.3333333333333333,
+      "support": 34.0
+    }
+  },
+  "feature_importances": {
+    "User_Category": 0.11729986905409591,
+    "Facility_Type": 0.14156333747705332,
+    "Time_Slot": 0.07883116760518012,
+    "Day_of_Week": 0.04643894692333692,
+    "Lead_Time_Days": 0.3399715291080686,
+    "Participants": 0.2758951498322651
+  },
+  "majority_baseline_accuracy": 0.575
+}
